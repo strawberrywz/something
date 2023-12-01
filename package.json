@@ -1,0 +1,25 @@
+{
+  "name": "anthony",
+  "version": "1.0.0",
+  "description": "I am just testing it !!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "ladsflkjajl;kdsf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strawberrywz/Chrome_Extension.git"
+  },
+  "keywords": [
+    "kjakd;sjfas"
+  ],
+  "author": "Jojo Tamang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strawberrywz/Chrome_Extension/issues"
+  },
+  "homepage": "https://github.com/strawberrywz/Chrome_Extension#readme",
+  "dependencies": {
+    "vite": "^5.0.4"
+  }
+}
